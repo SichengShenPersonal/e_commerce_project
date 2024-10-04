@@ -1,17 +1,13 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Introduction
+This project analyzes a real-world dataset from Kaggle, featuring Amazon India’s clothing sales data. Amazon India, a subsidiary of Amazon, is one of the largest e-commerce platforms in India, known for providing a wide range of products, including fashion, electronics, home goods, and more. It has become proficient in delivering products across the country, leveraging its vast logistics network and strong customer base.
 
-Insights and recommendations are provided on the following key areas:
+In this project, the focus is on three key areas of analysis:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+Together, these analyses will provide a comprehensive view of the sales dynamics in Amazon India's clothing category, with actionable insights for improving decision-making.
+- **Popular Domestic Products Analysis:** This section identifies and analyzes the most popular clothing products sold domestically in India. By understanding which products are in high demand, we can gain insights into customer preferences and purchasing patterns.
+- **Sales Trend Analysis:** Here, I will explore overall sales trends to uncover patterns over time, such as seasonality, peak periods, or emerging trends in customer behavior. This can help in forecasting future demand and optimizing sales strategies.
+- **International vs. Domestic Sales Trend Analysis:** This subsection compares the sales trends of products sold domestically in India versus those sold internationally. By comparing these trends, I aim to highlight differences in demand, product performance, and market behavior across different regions.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
