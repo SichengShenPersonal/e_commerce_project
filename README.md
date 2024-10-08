@@ -1,19 +1,29 @@
 # Project Background
+
+Here's the revised introduction that highlights the end-to-end aspect without using the "focusing" phrase:
+
 Introduction
-This project analyzes a real-world dataset from Kaggle, featuring Amazon India’s clothing sales data. Amazon India, a subsidiary of Amazon, is one of the largest e-commerce platforms in India, known for providing a wide range of products, including fashion, electronics, home goods, and more. It has become proficient in delivering products across the country, leveraging its vast logistics network and strong customer base.
+This project is an end-to-end data analysis journey, covering everything from data cleaning to visualization and analysis. It uses a real-world dataset from Kaggle featuring Amazon India’s clothing sales, with the aim of preparing the data for deep insights and actionable conclusions.
 
-In this project, the focus is on three key areas of analysis:
+The project is structured into three key phases:
 
-Together, these analyses will provide a comprehensive view of the sales dynamics in Amazon India's clothing category, with actionable insights for improving decision-making.
-- **Popular Domestic Products Analysis:** This section identifies and analyzes the most popular clothing products sold domestically in India. By understanding which products are in high demand, we can gain insights into customer preferences and purchasing patterns.
-- **Sales Trend Analysis:** Here, I will explore overall sales trends to uncover patterns over time, such as seasonality, peak periods, or emerging trends in customer behavior. This can help in forecasting future demand and optimizing sales strategies.
-- **International vs. Domestic Sales Trend Analysis:** This subsection compares the sales trends of products sold domestically in India versus those sold internationally. By comparing these trends, I aim to highlight differences in demand, product performance, and market behavior across different regions.
+- **Python-Based Data Cleaning:**
+In the initial phase, Python is used to perform basic cleaning operations such as handling missing values, removing duplicates, and standardizing formats. The cleaned data is then converted into a CSV file that is compatible with SQL Server, making it ready for more advanced transformations.
+
+- **SQL Data Cleaning and Transformation:**
+The second phase involves using SQL for more comprehensive data cleaning and transformation. This process prepares the data for efficient analysis and visualization by ensuring it is well-structured and ready for exploration.
+
+- **Popular Domestic Products Dashboard and Analysis:**
+The final phase consists of building an interactive dashboard to analyze the most popular domestic products sold on Amazon India. By visualizing geographical and product category data, the dashboard provides deeper insights into customer preferences and sales trends, helping stakeholders make informed decisions.
+
 
 The original dateset can be found [here](https://github.com/SichengShenPersonal/e_commerce_project/tree/main/raw_data)
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/SichengShenPersonal/e_commerce_project/tree/main/sql_queries).
+The python code used to inspect and clean the data for this analysis can be found [here](https://github.com/SichengShenPersonal/e_commerce_project/blob/main/python_code/e-commerce%20data%20cleaning.ipynb)
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [here]
+The SQL queries used to transform the data for this analysis can be found [here](https://github.com/SichengShenPersonal/e_commerce_project/tree/main/sql_queries).
+
+The interactive Tableau dashboards used to report and explore sales trends can be found here [here](https://public.tableau.com/shared/QP7TFBBN9?:display_count=n&:origin=viz_share_link)
 
 
 
