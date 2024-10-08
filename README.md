@@ -9,7 +9,7 @@ Together, these analyses will provide a comprehensive view of the sales dynamics
 - **Sales Trend Analysis:** Here, I will explore overall sales trends to uncover patterns over time, such as seasonality, peak periods, or emerging trends in customer behavior. This can help in forecasting future demand and optimizing sales strategies.
 - **International vs. Domestic Sales Trend Analysis:** This subsection compares the sales trends of products sold domestically in India versus those sold internationally. By comparing these trends, I aim to highlight differences in demand, product performance, and market behavior across different regions.
 
-The original dateset can be found here [https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data]
+The original dateset can be found here (https://github.com/SichengShenPersonal/e_commerce_project/tree/main/sql_queries)
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
