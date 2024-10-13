@@ -1,4 +1,4 @@
-# Project Background
+# Project Overview
 This project is an end-to-end data analysis journey, covering everything from data cleaning to visualization and analysis. It uses a real-world dataset from Kaggle featuring Amazon India’s clothing sales, with the aim of preparing the data for deep insights and actionable conclusions.
 
 The project is structured into three key phases:
